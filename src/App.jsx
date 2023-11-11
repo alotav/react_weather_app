@@ -1,9 +1,6 @@
 import {useState}from 'react'
 import axios from 'axios'
 
-// import dotenv from 'dotenv'
-// dotenv.config();
-
 
 const App = () => {
 
